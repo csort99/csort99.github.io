@@ -15,3 +15,13 @@ body{
     text-align: center;
     margin-top: 10px;
 }
+#gnav{
+    background-color: gray;
+}
+#gnav ul{
+    overflow: hidden;
+}
+#gnav li{
+    float: left;
+    width: 200px;
+}
