@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-10-27 15:59:00-0400
+date: 2023-07-03
 inline: true
 ---
 
-Our survey on post-quantum advanced signatures for blockchain is accepted at ACM Computing Surveys (IF: 14.32)! See the paper [here](https://eprint.iacr.org/2022/1151.pdf)
+"Chosen Ciphertext Security for Blind Identity-based Encryption with Certified Identities" is accepted to appear at ISPEC 2023 (CORE rank: B)! #See the full paper [here](https://eprint.iacr.org/2022/141.pdf)
