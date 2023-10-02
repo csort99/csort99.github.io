@@ -2,27 +2,22 @@
 layout: about
 title: about
 permalink: /
-subtitle: Lecturer, <a href='https://www.monash.edu/it'>Faculty of Information Technology, Monash University</a>
+subtitle: M.Sc. Course Student, <a href='https://www.eis.ynu.ac.jp/english/academic/'>Graduate School of EIS, Yokohama National University</a>-->
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Faculty of Information Technology, Monash University</p>
-    <p>Clayton, VIC 3800, Australia </p>
+    <p>Graduate School of EIS, Yokohama National University</p>
+    <p>79-7 Tokiwadai, Hodogaya-ku, Yokohama, Kanagawa 240-8501, Japan</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am interested in mathematical aspects of cybersecurity, particularly around cryptography. My current research focuses are quantum-safe cryptography (particularly, from lattices and hash functions), privacy-preserving protocols, zero-knowledge proofs and blockchain protocols as well as their real-life applications to establish various security features such as confidentiality, integrity, privacy, anonymity and accountability in practice. I have also worked on symmetric-key cryptography and classical public-key cryptography.
+I am a master's course student at Yokohama National University (YNU), advised by Prof. Junji Shikata. 
+I received my Bachelor's degree in Engineering from National Institute of Technology, Numazu College in 2022.
 
-I currently work as a lecturer at the Faculty of Information Technology, Monash University. Before that, I was a post-doc at Monash and CSIRO's Data61 jointly. I also did a research internship at IBM Research, Zurich, hosted by [Vadim Lyubashevsky](https://researcher.watson.ibm.com/researcher/view.php?person=zurich-vad). I completed my PhD at Monash under the supervision of [Ron Steinfeld](https://users.monash.edu.au/~rste/), [Joseph Liu](https://users.monash.edu.au/~kailiu/) and [Dongxi Liu](https://people.csiro.au/L/D/Dongxi-Liu).
-
-I organise Monash Software Systems and Cybersecurity (SSC) Seminars. If you are interested in cutting-edge research in cybersecurity, sofware engineering and data engineering, see [our website](https://www.monash.edu/it/ssc/seminars) for past and upcoming events.
-
-I have **multiple PhD scholarships available**. Please refer to [supervision](https://mfesgin.github.io/supervision/).
-
-This webpage is currently under development. If you spot any issues, please contact me via email (provided at the end of the page).
+I am interested in mathematical aspects of cybersecurity, particularly around cryptography. My current research focuses are applied cryptography (particularly, identity-based encryption, matchmaking encryption, proxy re-signature).
