@@ -2,32 +2,27 @@
   type: map
   contents:
     - name: Full Name
-      value: Muhammed F. Esgin
+      value: Sohto Chiku
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: Faculty of Information Technology, Monash University, Australia
-      year: 2020
-      description:
-        - "Title: Practice-Oriented Techniques in Lattice-Based Cryptography"
-        - received 2020 Vice-Chancellor’s Commendation for Thesis Excellence Award
-        - access thesis <a href="https://bridges.monash.edu/articles/thesis/Practice-Oriented_Techniques_in_Lattice-Based_Cryptography/12279728" target="_blank">here</a> (opens in a separate tab)
+#    - title: M.sc. ()
+#      institution: Graduate School of EIS, Yokohama National University, Japan
+#      year: 2024
+    - title: Bachelor of Engineering
+      institution: Multidisciplinary Engineering Course, National Institute of Technology Numazu Colledge, Japan
+      year: 2022
+#      description:
+#        - "Title: Practice-Oriented Techniques in Lattice-Based Cryptography"
+#        - received 2020 Vice-Chancellor’s Commendation for Thesis Excellence Award
+#        - access thesis <a href="https://bridges.monash.edu/articles/thesis/Practice-Oriented_Techniques_in_Lattice-Based_Cryptography/12279728" target="_blank">here</a> (opens in a separate tab)
 
 - title: Academic Interests
   type: nested_list
   contents:
     - title: Cryptography
       items: 
-        - Post-quantum (a.k.a. quantum-safe) cryptography
-        - Lattice-based cryptography
-        - Hash-based cryptography
-        - Privacy-Enhancing Technologies (PETs)
-        - Zero-knowledge proofs
-        - Quantum security analysis
-    - title: Blockchain
-      items:
-        - Applications of above cryptographic schemes
-        - Efficient consensus
-        - Leader election
+        - Identity-based Cryptography
+        - Matchmaking Encryption
+        - Proxy Re-signature
