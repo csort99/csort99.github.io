@@ -1,3 +1,5 @@
+<!---
+
 ---
 layout: page
 permalink: /projects/
@@ -22,3 +24,5 @@ The following are some of the major projects I am/was involved in.
 3. Next Generation Graduate Program on Quantum Information Technology: Industry Readiness & Applications \[2023--2026\]:
 	- This program aims to train the next generation experts on quantum information technologies. It is in collaboration with a variety of industry and university partners. 
 	- The project is funded by CSIRO.
+
+--->
