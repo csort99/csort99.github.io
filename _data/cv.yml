@@ -3,7 +3,7 @@
   contents:
     - name: Full Name
       value: Sohto Chiku
-    - birth: Birth of Date
+    - name: Birth of Date
       value: 6th September, 1999
 
 - title: Education
