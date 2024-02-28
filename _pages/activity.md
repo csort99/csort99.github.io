@@ -1,3 +1,4 @@
+<!--
 ---
 layout: activity
 permalink: /activity/
@@ -6,3 +7,4 @@ nav: true
 nav_order: 3
 acticity_pdf:
 ---
+-->
