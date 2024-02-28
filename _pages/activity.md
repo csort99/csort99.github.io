@@ -1,12 +1,8 @@
-
 ---
-layout: page
+layout: activity
 permalink: /activity/
 title: activity
-description: This page contains a list of my activities.
 nav: true
-nav_order: 4
+nav_order: 3
+acticity_pdf:
 ---
-
-
-1. 
