@@ -1,0 +1,6 @@
+- title: Talks
+  type: nested_list
+  contents:
+    - title: Identity-Based Matchmaking Encryption Secure Against Key Generation Center
+    - authors: Sohto Chiku, Keisuke Hara, Junji Shikata
+    - venue: May 2024, ISEC
