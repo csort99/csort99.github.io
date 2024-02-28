@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: activity
 permalink: /activity/
 title: activity
 nav: true
