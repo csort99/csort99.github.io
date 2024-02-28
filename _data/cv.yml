@@ -20,16 +20,6 @@
 #        - received 2020 Vice-Chancellor’s Commendation for Thesis Excellence Award
 #        - access thesis <a href="https://bridges.monash.edu/articles/thesis/Practice-Oriented_Techniques_in_Lattice-Based_Cryptography/12279728" target="_blank">here</a> (opens in a separate tab)
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Cryptography
-      items: 
-        - Identity-based Cryptography
-        - Matchmaking Encryption
-        - Registration-based Cryptography
-        - Proxy Re-signature
-
 - title: Honors and Awards  
   type: time_table
   contents: 
@@ -43,3 +33,13 @@
    - title: Identity-Based Matchmaking Encryption Secure Against Key Generation Center (from ProvSec 2023)
    - institution: in ISEC 
    - year: 2024
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Cryptography
+      items: 
+        - Identity-based Cryptography
+        - Matchmaking Encryption
+        - Registration-based Cryptography
+        - Proxy Re-signature
