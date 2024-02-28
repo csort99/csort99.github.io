@@ -27,4 +27,5 @@
       items: 
         - Identity-based Cryptography
         - Matchmaking Encryption
+        - Registration-based Cryptography
         - Proxy Re-signature
