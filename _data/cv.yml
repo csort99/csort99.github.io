@@ -29,3 +29,17 @@
         - Matchmaking Encryption
         - Registration-based Cryptography
         - Proxy Re-signature
+
+- title: Awards and Honers
+  type: time_table
+  contents: 
+   - title: Student awards
+   - institution: Graduate School of EIS, Yokohama National University
+   - year: 2024
+
+- title: Talks
+  type: time_table
+  contents:
+   - title: Identity-Based Matchmaking Encryption Secure Against Key Generation Center (from ProvSec 2023)
+   - institution: in ISEC 
+   - year: 2024
