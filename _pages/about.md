@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: M.Inf. Course Student, <a href='https://www.eis.ynu.ac.jp/english/academic/'>Graduate School of EIS, Yokohama National University</a>
+subtitle: Ph.D. Course Student, <a href='https://www.eis.ynu.ac.jp/english/academic/'>Graduate School of EIS, Yokohama National University</a>
 
 profile:
   align: right
