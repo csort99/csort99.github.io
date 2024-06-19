@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-08-25
+date: 2024-07-18
 inline: true
 ---
 
-I talked about "Chosen Ciphertext Security for Blind Identity-based Encryption with Certified Identities" in ISPEC2023 at Copenhagen, Denmark! <!--See the full paper [here](https://eprint.iacr.org/2022/141.pdf)-->
+Our paper "How to Apply Fujisaki-Okamoto Transformation to Registration-Based Encryption" is accepted to CANS'24! <!--See the full paper [here](https://eprint.iacr.org/20xx/xxx.pdf)-->
