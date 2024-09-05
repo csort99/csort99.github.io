@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-10-21
+date: 2024-09-03
 inline: true
 ---
 
-I talked about "Identity-based Matchmaking Encryption Secure against Key Generation Center" in ProvSec 2023 in Wuhan, China! <!--See the full paper [here](https://eprint.iacr.org/2022/141.pdf)-->
+"How to Accomplish Key and Communication Compression Over Authentication Channels: Proxy Re-Authentication and its instantiations" is accepted to appear at nss 2024!
