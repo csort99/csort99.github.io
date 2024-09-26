@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2024-01-25 
+date: 2024-08-20 
 inline: true
 ---
 
-I talked about "Efficient and Strongly-Secure Identity-based Matchmaking Encryption Based on BDH Assumption" in SCIS 2024 at Nagasaki, Japan!
+We uploaded “Chosen Ciphertext Secure (Hierarchical) Identity-Based Matchmaking Encryption” to ePrint archive. See [here](https://eprint.iacr.org/2024/1292).
