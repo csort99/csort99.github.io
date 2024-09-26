@@ -4,4 +4,4 @@ date: 2023-09-24
 inline: true
 ---
 
-We uploaded "Identity-Based Matchmaking Encryption, Revisited: Strong Security and Practical Constructions from Standard Classical and Post-Quantum Assumptions" to ePrint archive. See [here](https://eprint.iacr.org/2023/1435.pdf)
+I talked about "How to Apply Fujisaki-Okamoto Transformation to Registration-Based Encryption" in CANS 2024 at Cambridge, England.
