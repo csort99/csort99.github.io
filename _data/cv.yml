@@ -48,7 +48,7 @@
   contents:
     - title: Cryptography
       items: 
-        - (Identity-based, attribute-based, functional) Encryption
+        - (Identity-based, Attribute-based, Functional) Encryption
         - Matchmaking Encryption
         - Registration-based Cryptography
         - Proxy Re-signature
