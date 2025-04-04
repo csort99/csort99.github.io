@@ -36,12 +36,31 @@
      institution: Graduate School of EIS, Yokohama National University
      year: 2024
 
-- title: Talks
+- title: Invited Talks
   type: time_table
   contents:
    - title: Identity-Based Matchmaking Encryption Secure Against Key Generation Center (from ProvSec 2023)
      institution: Invited Session in ISEC (May)
+     year: 2024- title: Invited Talks
+ 
+- title: Talks    
+  type: time_table
+  contents:
+   - title: How to Accomplish Key and Communication Compression Over Authentication Channels: Proxy Re-Authentication and its instantiations
+     institution: NSS 2024
      year: 2024
+  contents:
+   - title: How to Apply Fujisaki-Okamoto Transformation to Registration-Based Encryption
+     institution: CANS 2024
+     year: 2024
+  contents:
+   - title: Identity-Based Matchmaking Encryption Secure Against Key Generation Center
+     institution: ProvSec 2023
+     year: 2023
+  contents:
+   - title: Chosen Ciphertext Security for Blind Identity-Based Encryption with Certified Identities
+     institution: ISPEC 2023
+     year: 2023
 
 - title: Academic Interests
   type: nested_list
