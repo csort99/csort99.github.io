@@ -45,15 +45,12 @@
    - title: How to Accomplish Key and Communication Compression Over Authentication Channels
      institution: NSS 2024
      year: 2024
-  contents:
    - title: How to Apply Fujisaki-Okamoto Transformation to Registration-Based Encryption
      institution: CANS 2024
      year: 2024
-  contents:
    - title: Identity-Based Matchmaking Encryption Secure Against Key Generation Center
      institution: ProvSec 2023
      year: 2023
-  contents:
    - title: Chosen Ciphertext Security for Blind Identity-Based Encryption with Certified Identities
      institution: ISPEC 2023
      year: 2023
