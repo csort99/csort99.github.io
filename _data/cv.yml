@@ -42,7 +42,7 @@
 - title: Talks    
   type: time_table
   contents:
-   - title: How to Accomplish Key and Communication Compression Over Authentication Channels: Proxy Re-Authentication and its instantiations
+   - title: How to Accomplish Key and Communication Compression Over Authentication Channels
      institution: NSS 2024
      year: 2024
   contents:
