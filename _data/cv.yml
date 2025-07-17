@@ -42,6 +42,9 @@
 - title: Talks    
   type: time_table
   contents:
+   - title: Hierarchical Identity-Based Matchmaking Encryption
+     institution: PRIVCRYPT 2025
+     year: 2025
    - title: How to Accomplish Key and Communication Compression Over Authentication Channels
      institution: NSS 2024
      year: 2024
@@ -55,12 +58,18 @@
      institution: ISPEC 2023
      year: 2023
 
+- title: Posters
+  type: time_table
+  contents:
+   - title: Identity-Based Matchmaking Encryption Revisited: Improved Constructions with Strong Security
+     institution: IWSEC 2024
+     year: 2024
+
 - title: Academic Interests
   type: nested_list
   contents:
     - title: Cryptography
       items: 
-        - (Identity-based, Attribute-based, Functional) Encryption
-        - Matchmaking Encryption
-        - Registration-based Cryptography
-        - Proxy Re-signature
+        - Functional Encryption 
+        - Registeration-Based Cryptography
+        - Privacy Preserving Signature
