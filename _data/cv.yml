@@ -16,9 +16,9 @@
       institution: Multidisciplinary Engineering Course, National Institute of Technology Numazu Colledge, Japan
       year: 2022
 
-- title: Honors and Awards  
+- title: Honors and Awards
   type: time_table
-  contents: 
+  contents:
    - title: CSS Paper Awards
      institution: Computer Security Symposium 2024
      year: 2024
@@ -39,7 +39,7 @@
      institution: Invited Session in ISEC (May)
      year: 2024
  
-- title: Talks    
+- title: Talks
   type: time_table
   contents:
    - title: Hierarchical Identity-Based Matchmaking Encryption
@@ -70,6 +70,6 @@
   contents:
     - title: Cryptography
       items:
-        - Functional Encryption 
+        - Functional Encryption
         - Registeration-Based Cryptography
         - Privacy Preserving Signature
