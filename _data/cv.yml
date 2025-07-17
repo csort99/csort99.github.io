@@ -16,29 +16,14 @@
       institution: Multidisciplinary Engineering Course, National Institute of Technology Numazu Colledge, Japan
       year: 2022
 
-- title: Honors and Awards
-  type: time_table
+- title: Academic Services
+  type: map
   contents:
-   - title: CSS Paper Awards
-     institution: Computer Security Symposium 2024
-     year: 2024
-   - title: Tujii Shigeo Security Paper Awards
-     institution: Japan Society of Security Management
-     year: 2024
-   - title: Certificate of Appreciation for Contribution to ISEC Research Group Activities
-     institution: ISEC Research Group
-     year: 2024
-   - title: Graduate School of EIS Student Awards
-     institution: Graduate School of EIS, Yokohama National University
-     year: 2024
+    - name: Journal Reviewer
+      value: IEEE Transactions on Information Forensics and Security
+    - name: Conference Reviewer
+      value: CRYPTO 2025
 
-- title: Invited Talks
-  type: time_table
-  contents:
-   - title: Identity-Based Matchmaking Encryption Secure Against Key Generation Center (from ProvSec 2023)
-     institution: Invited Session in ISEC (May)
-     year: 2024
- 
 - title: Talks
   type: time_table
   contents:
@@ -65,11 +50,34 @@
       institution: IWSEC 2024
       year: 2024
 
+- title: Invited Talks
+  type: time_table
+  contents:
+   - title: Identity-Based Matchmaking Encryption Secure Against Key Generation Center (from ProvSec 2023)
+     institution: Invited Session in ISEC (May)
+     year: 2024
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+   - title: CSS Paper Awards
+     institution: Computer Security Symposium 2024
+     year: 2024
+   - title: Tujii Shigeo Security Paper Awards
+     institution: Japan Society of Security Management
+     year: 2024
+   - title: Certificate of Appreciation for Contribution to ISEC Research Group Activities
+     institution: ISEC Research Group
+     year: 2024
+   - title: Graduate School of EIS Student Awards
+     institution: Graduate School of EIS, Yokohama National University
+     year: 2024
+
 - title: Academic Interests
   type: nested_list
   contents:
     - title: Cryptography
       items:
         - Functional Encryption
-        - Registeration-Based Cryptography
+        - Registration-Based Cryptography
         - Privacy Preserving Signature
