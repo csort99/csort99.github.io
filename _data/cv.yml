@@ -61,9 +61,9 @@
 - title: Posters
   type: time_table
   contents:
-   - title: Identity-Based Matchmaking Encryption Revisited: Improved Constructions with Strong Security
-     institution: IWSEC 2024
-     year: 2024
+    - title: Identity-Based Matchmaking Encryption Revisited: Improved Constructions with Strong Security
+      institution: IWSEC 2024
+      year: 2024
 
 - title: Academic Interests
   type: nested_list
