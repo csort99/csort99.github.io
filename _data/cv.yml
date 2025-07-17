@@ -69,7 +69,7 @@
   type: nested_list
   contents:
     - title: Cryptography
-      items: 
+      items:
         - Functional Encryption 
         - Registeration-Based Cryptography
         - Privacy Preserving Signature
