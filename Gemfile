@@ -16,9 +16,9 @@ group :jekyll_plugins do
     gem 'mini_racer'
     gem 'unicode_utils'
     gem 'webrick'
-    gem 'faraday-retry'
 end
 group :other_plugins do
     gem 'httparty'
     gem 'feedjira'
+    gem 'uri', '0.10.1' if ENV['CI']
 end
