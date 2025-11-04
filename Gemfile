@@ -1,6 +1,8 @@
 source 'https://rubygems.org'
 group :jekyll_plugins do
-    gem 'jekyll'
+    gem 'jekyll', '~> 4.4'
+    gem 'jekyll-sass-converter', '~> 2.2'
+    gem 'sassc', '~> 2.4'
     gem 'jekyll-archives'
     gem 'jekyll-diagrams'
     gem 'jekyll-email-protect'
