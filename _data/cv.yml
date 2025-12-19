@@ -60,6 +60,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
+   - title: Mobisec 2025 Best Paper Award
+     institution: KIISC
+     year: 2025
    - title: CSS Paper Awards
      institution: Computer Security Symposium 2024
      year: 2024
