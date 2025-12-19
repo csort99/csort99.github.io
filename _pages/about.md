@@ -21,4 +21,4 @@ I am a Ph.D. course student at Graduate School of EIS, Yokohama National Univers
 I also belong to CPSEC, Advanced Cryptography Research Team, National Institute of Advanced Industrial Science and Technology (AIST) as a technical trainee.
 I received my Bachelor's degree in Engineering from National Institute of Technology, Numazu College in 2022 and I received my Master's degree in Informatics from Yokohama National University in 2024.
 
-I am interested in the mathematical aspects of cybersecurity, particularly around cryptography. My current research focuses on cryptography with advanced functionality (e.g. (identity-based, attribute-based, functional) encryption, matchmaking encryption, registered cryptographic primitive, proxy re-signature).
+I am interested in the mathematical aspects of cybersecurity, particularly around cryptography. My current research focuses on cryptography with advanced functionality (e.g. functional encryption, registered encryption, privacy presearving signature).
