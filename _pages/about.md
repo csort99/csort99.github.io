@@ -6,7 +6,7 @@ subtitle: Ph.D. Course Student, <a href='https://www.eis.ynu.ac.jp/english/acade
 
 profile:
   align: right
-  image: IMG_1111.png
+  image: IMG_4618.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Graduate School of EIS, Yokohama National University</p>
