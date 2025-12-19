@@ -22,7 +22,7 @@
     - name: Journal Reviewer
       value: IEEE Transactions on Information Forensics and Security
     - name: Conference Reviewer
-      value: CRYPTO 2025
+      value: CRYPTO 2025, ASIACRYPT 2025
 
 - title: Talks
   type: time_table
