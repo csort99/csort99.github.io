@@ -82,6 +82,6 @@
     - title: Cryptography
       items:
         - Functional Encryption
-        - Registered Encryption
+        - Registered Cryptographic System
         - Privacy Preserving Signature
         - Quantum Cryptography
