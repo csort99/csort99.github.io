@@ -13,3 +13,50 @@ $max-content-width: {{ site.max_width }};
   "base",
   "distill"
 ;
+
+/*******************************************************************************
+ * Cipher style — monospace fonts (added)
+ *  Body: IBM Plex Mono / Headings & brand: JetBrains Mono
+ *  To go back to a normal body font, delete the `body { ... }` rule below.
+ ******************************************************************************/
+
+body {
+  font-family: "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+}
+
+h1, h2, h3, h4, h5, h6,
+.navbar-brand,
+.post-title,
+.profile .name,
+.bibliography {
+  font-family: "JetBrains Mono", "IBM Plex Mono", monospace !important;
+  letter-spacing: -0.01em;
+}
+
+/*******************************************************************************
+ * Publications: grouped headings (year = h2, category = h3)
+ ******************************************************************************/
+
+.publications h2 {
+  margin: 30px 0 6px;
+  font-size: 1.5rem;
+  color: var(--global-theme-color);
+}
+
+.publications h3 {
+  margin: 14px 0 2px;
+  font-size: 1rem;
+  font-weight: 600;
+  opacity: .85;
+  border-bottom: 1px solid var(--global-divider-color);
+  padding-bottom: 4px;
+}
+
+/* Category sub-headings under each year (publications page) */
+.publications h3.category {
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--global-theme-color);
+  margin: 0.7rem 0 0.2rem 0;
+  letter-spacing: 0.02em;
+}
