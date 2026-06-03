@@ -32,5 +32,8 @@ nav_order: 1
   {% bibliography -f papers -q @*[pubid=ProvSecCHS23]* %}
   <h3 class="category">Preprints</h3>
   {% bibliography -f papers -q @*[pubid=ePrintCHHS23]* %}
+  <h3 class="category">Domestic Conferences</h3>
+  {% bibliography -f papers -q @*[pubid=ISEC:CHS23b]* %}
+  {% bibliography -f papers -q @*[pubid=ISEC:CHS23a]* %}
 
 </div>
