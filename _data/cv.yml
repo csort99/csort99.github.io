@@ -20,7 +20,7 @@
   type: map
   contents:
     - name: Journal Reviewer
-      value: IEEE Transactions on Information Forensics and Security
+      value: IEEE-TIFS, DCC, JISAS
     - name: Conference Reviewer
       value: CRYPTO 2025, ASIACRYPT 2025
 
