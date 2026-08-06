@@ -54,7 +54,7 @@
   type: time_table
   contents:
    - title: Registered Advanced Cryptographic Primitives
-     institution: IMI Research-Workshop: Interdisciplinary and Emerging Research in Cryptography-Related Fields for Early-Career Researchers
+     institution: "IMI Research-Workshop: Interdisciplinary and Emerging Research in Cryptography-Related Fields for Early-Career Researchers"
      year: 2026
    - title: Identity-Based Matchmaking Encryption Secure Against Key Generation Center (from ProvSec 2023)
      institution: Invited Session in ISEC (May)
